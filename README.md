@@ -13,8 +13,7 @@
 - 💌 48step@naver.com
 
 ## Blog
-<a href="https://itholic.github.io/](https://bokboktee.notion.site/Junior-Web-Developer-c352938ad6a34bb39f9e962671a8fa4f" target="_blank">
-  <img width=110 height=110 src="https://github.com/bokboktee/bokboktee/assets/108470374/3b2d23b2-2f9a-4850-8cf8-cf3263247f57">
-</a>
+<a href="https://bokboktee.notion.site/Junior-Web-Developer-c352938ad6a34bb39f9e962671a8fa4f">
+<img src="https://img.shields.io/badge/-TechBlog-brightgreen">
 
 
